@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Message page unchanged 1`] = `
+<div>
+  <div
+    class="
+         flex items-center space-x-4 px-4 py-2 border-y border-gray-600 hover:bg-slate-600 hover:cursor-pointer transition-all
+      "
+  >
+    <div
+      class="flex-none rounded-full h-14 w-14 overflow-hidden"
+    >
+      <img
+        alt="Picture of the author"
+        data-nimg="1"
+        decoding="async"
+        height="56"
+        loading="lazy"
+        src="/_next/image?url=https%3A%2F%2Fpicsum.photos%2F56%2F56&w=128&q=75"
+        srcset="/_next/image?url=https%3A%2F%2Fpicsum.photos%2F56%2F56&w=64&q=75 1x, /_next/image?url=https%3A%2F%2Fpicsum.photos%2F56%2F56&w=128&q=75 2x"
+        style="color: transparent;"
+        width="56"
+      />
+    </div>
+    <div
+      class="grid"
+    >
+      <div>
+        Title
+      </div>
+      <div
+        class="text-sm text-gray-500 line-clamp-1"
+      >
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+      </div>
+    </div>
+  </div>
+</div>
+`;
